@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science - Can Tho University
 - 💞️ I like anime, manga, new technology, games, books, ...
 
-  # --> Learning is the eye of the mind
+  # --> _Learning is the eye of the mind_
 
 <!---
 nhatuan20032508/nhatuan20032508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

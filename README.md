@@ -1,4 +1,4 @@
- # Hi, I’m AnhTuan
+ # Hi, I’m Anh Tuan
 - 👀 I’m interested in Artificial Intelligence - Computer Vision
 - 🌱 I’m currently learning Computer Science - Can Tho University
 - 💞️ I like anime, manga, new technology, games, books, ...

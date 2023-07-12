@@ -14,7 +14,7 @@ age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
 name = "Nguyễn Hoàng Anh Tuấn"
 dob = "25/8/2003"
 dream = "Computer Science Engineer - Computer Vision"
-languages = ["C++", "Python","..."]
+languages = ["C", "Python","..."]
 libraries = ["OpenCV", "TensorFlow","..."]
 
 print(f"Hello, my name is {name}, I was born on {dob} and I'm {age} years old. My dream is {dream}. "

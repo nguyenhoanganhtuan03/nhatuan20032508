@@ -1,4 +1,6 @@
- # Hi, I’m Anh Tuan
+ # Hi, I’m Anh Tuan <img src="https://github.com/nhatuan20032508/nhatuan20032508/assets/127226234/1be6dced-207e-43f1-baca-eedf30355ebb" alt="hello" width="5%" />
+
+
 - 👀 I’m interested in Artificial Intelligence - Computer Vision
 - 🌱 I’m currently learning Computer Science - [Can Tho University](https://www.ctu.edu.vn)
 - 💞️ I like anime, manga, new technology, games, books, ...
@@ -21,7 +23,7 @@ print(f"Hello, my name is {name}, I was born on {dob} and I'm {age} years old. M
       f"I can code in {', '.join(languages)} and often use the libraries {', '.join(libraries)}.")
 
 ```
-  # --> _Learning is the eye of the mind_
+  # -> _Learning is the eye of the mind_
 
 <!---
 nhatuan20032508/nhatuan20032508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,20 @@
- # Hi, I’m Anh Tuan <img src="https://github.com/nhatuan20032508/nhatuan20032508/assets/127226234/1be6dced-207e-43f1-baca-eedf30355ebb" alt="hello" width="5%" />
+<h1> &#x1F44B; Hi, I'm Anh Tuan</h1>
+
+<div align="left">
+ 
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/profile.php?id=100010098306305)
+[![Email](https://img.shields.io/badge/Email-Send-red)](mailto:nhatuan20032508@gmail.com)
+[![Zalo](https://img.shields.io/badge/Zalo-Chat-brightgreen)](0353737550)
+
+</div>
 
 
-- 👀 I’m interested in Artificial Intelligence - Computer Vision
-- 🌱 I’m currently learning Computer Science - [Can Tho University](https://www.ctu.edu.vn)
-- 💞️ I like anime, manga, new technology, games, books, ...
-
+<ul>
+    <li>I’m interested in Artificial Intelligence - Computer Vision.</li>
+    <li> I’m currently learning Computer Science - <a href="https://www.ctu.edu.vn">Can Tho University</a></li>
+    <li>I like anime, manga, new technology, games, books, ...</li>
+ </ul>
+ 
 ```py
 from datetime import datetime
 
@@ -21,9 +31,15 @@ libraries = ["OpenCV", "TensorFlow","..."]
 
 print(f"Hello, my name is {name}, I was born on {dob} and I'm {age} years old. My dream is {dream}. "
       f"I can code in {', '.join(languages)} and often use the libraries {', '.join(libraries)}.")
-
 ```
-  # -> _Learning is the eye of the mind_
+ <h1> &#8594; Learning is the eye of the mind</h1>
+ 
+
+
+
+
+
+
 
 <!---
 nhatuan20032508/nhatuan20032508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

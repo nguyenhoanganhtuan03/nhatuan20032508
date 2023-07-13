@@ -4,7 +4,7 @@
  
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/profile.php?id=100010098306305)
 [![Email](https://img.shields.io/badge/Email-Send-red)](mailto:nhatuan20032508@gmail.com)
-[![Zalo](https://img.shields.io/badge/Zalo-Chat-brightgreen)](0353737550)
+[![Phone](https://img.shields.io/badge/Phone-Contact-brightgreen)](tel:+84353737550))
 
 </div>
 

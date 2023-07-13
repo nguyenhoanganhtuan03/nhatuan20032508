@@ -5,9 +5,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue)](https://www.facebook.com/profile.php?id=100010098306305)
 [![Email](https://img.shields.io/badge/Email-Send-red)](mailto:nhatuan20032508@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Contact-brightgreen)](tel:+84353737550)
+[![Github](https://img.shields.io/badge/Github-Profile-lightgrey?logo=github)](https://github.com/nhatuan20032508)
 
 </div>
-
 
 <ul>
     <li>I’m interested in Artificial Intelligence - Computer Vision.</li>
@@ -15,6 +15,8 @@
     <li>I like anime, manga, new technology, games, books, ...</li>
  </ul>
  
+[![Languages](https://img.shields.io/github/languages/count/nhatuan20032508)](https://github.com/nhatuan20032508)
+
 ```py
 from datetime import datetime
 

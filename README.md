@@ -17,7 +17,7 @@
 
  <div>
   
-[![Languages](https://badgen.net/github/languages/count/nhatuan20032508)](https://github.com/nhatuan20032508)
+[![Languages](https://img.shields.io/badge/Languages-5-blue?style=flat-square&logo=javascript)](https://github.com/nhatuan20032508)
 
 </div>
 

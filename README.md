@@ -14,8 +14,12 @@
     <li> I’m currently learning Computer Science - <a href="https://www.ctu.edu.vn">Can Tho University</a></li>
     <li>I like anime, manga, new technology, games, books, ...</li>
  </ul>
- 
-[![Languages](https://img.shields.io/github/languages/count/nhatuan20032508)](https://github.com/nhatuan20032508)
+
+ <div>
+  
+[![Languages](https://badgen.net/github/languages/count/nhatuan20032508)](https://github.com/nhatuan20032508)
+
+</div>
 
 ```py
 from datetime import datetime

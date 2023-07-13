@@ -6,6 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Send-red)](mailto:nhatuan20032508@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Contact-brightgreen)](tel:+84353737550)
 [![Github](https://img.shields.io/badge/Github-Profile-lightgrey?logo=github)](https://github.com/nhatuan20032508)
+[![Languages](https://img.shields.io/badge/Languages-5-blue?style=flat-square&logo=javascript)](https://github.com/nhatuan20032508)
 
 </div>
 
@@ -14,12 +15,6 @@
     <li> I’m currently learning Computer Science - <a href="https://www.ctu.edu.vn">Can Tho University</a></li>
     <li>I like anime, manga, new technology, games, books, ...</li>
  </ul>
-
- <div>
-  
-[![Languages](https://img.shields.io/badge/Languages-5-blue?style=flat-square&logo=javascript)](https://github.com/nhatuan20032508)
-
-</div>
 
 ```py
 from datetime import datetime

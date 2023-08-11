@@ -26,13 +26,17 @@ age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
 name = "Nguyễn Hoàng Anh Tuấn"
 dob = "25/8/2003"
 dream = "Computer Science Engineer - Computer Vision"
-languages = ["C", "Python"]
-libraries = ["OpenCV", "TensorFlow","..."]
+languages = ["C++", "Python"]
+libraries = ["OpenCV", "Django", "CircuitPython","..."]
+learning = ["Tensorflow", "Pytorch"]
+tools = ["ChatGPT", "Bing AI", "Bard AI", "Stack Overflow", "..."]
 
 print(f"Hello, my name is {name}.")
 print(f"I was born on {dob} and I'm {age} years old.")
 print(f"My dream is {dream}.")
-print(f"I can code in {', '.join(languages)} and often use the libraries {', '.join(libraries)}.")
+print(f"I can code in {', '.join(languages)} and often use the libraries {', '.join(libraries)}. ",end='')
+print(f"I am currently researching and learning about {', '.join(learning)}.")
+print(f"I often use {', '.join(tools)} and some other forums for studying and working on a few small projects.")
 ```
  <h1> &#8594; Learning is the eye of the mind</h1>
  
